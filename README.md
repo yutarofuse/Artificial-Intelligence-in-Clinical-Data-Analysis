@@ -27,3 +27,8 @@ The SHAP analysis was conducted using the **Pima Indians Diabetes Database**:
 
 - Smith JW, Everhart JE, Dicksont WC, Knowler WC, Johannes RS. *Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus.* Proc Annu Symp Comput Appl Med Care 1988; Nov 9: 261–265.
 - [SHAP Documentation](https://shap.readthedocs.io/en/latest/) [accessed April 23, 2025].
+
+## License
+This code is released under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+Please note that the datasets and third-party libraries referenced in the [Data Sources and References](#data-sources-and-references) section are subject to their respective licenses. Users are responsible for ensuring compliance with the applicable licenses when using these resources.
